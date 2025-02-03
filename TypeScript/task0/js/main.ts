@@ -6,7 +6,7 @@ interface Student {
     location: string;
 }
 
-// Create two student objects
+// Create one student objects
 const student1: Student = {
     firstName: "sebastian",
     lastName: "meneses",
@@ -14,6 +14,7 @@ const student1: Student = {
     location: "Medellin"
 };
 
+// Create two student objects
 const student2: Student = {
     firstName: "stuar",
     lastName: "roker",
